@@ -1,1 +1,2 @@
 1st code file of YNR
+YNR is marathon runner
